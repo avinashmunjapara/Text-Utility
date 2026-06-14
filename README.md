@@ -14,7 +14,7 @@ A simple and beginner-friendly text manipulation application built with **React*
 
 ![TextUtility Screenshot](./screenshot.png)
 
-> Add your project screenshot to the root folder and rename it to `screenshot.png`.
+
 
 ## 🛠️ Built With
 
