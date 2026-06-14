@@ -12,7 +12,6 @@ function App() {
     <>
       <NavBar title="TextUtility"></NavBar>
       <TextForm></TextForm>
-      <About></About>
     </>
   )
 }
