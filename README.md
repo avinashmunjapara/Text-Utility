@@ -15,7 +15,6 @@ A simple and beginner-friendly text manipulation application built with **React*
 ![TextUtility Screenshot](./screenshot.png)
 
 
-
 ## 🛠️ Built With
 
 - React
